@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Wallace!
+# Wallace Gomes da Cruz
 
 💻 **Desenvolvedor Front-End em formação**, apaixonado por tecnologia e desenvolvimento de soluções.
 
